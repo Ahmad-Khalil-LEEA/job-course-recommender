@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Data Scientist",
+    "skills": ["python", "machine learning", "statistics"],
+    "url": "https://example.com/job1"
+  },
+  {
+    "id": 2,
+    "title": "Frontend Developer",
+    "skills": ["javascript", "react", "css"],
+    "url": "https://example.com/job2"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Machine Learning Bootcamp",
+    "skills": ["machine learning", "python"],
+    "url": "https://example.com/course1"
+  },
+  {
+    "id": 2,
+    "title": "Modern React",
+    "skills": ["react", "javascript"],
+    "url": "https://example.com/course2"
+  }
+]
